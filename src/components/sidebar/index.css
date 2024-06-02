@@ -1,0 +1,15 @@
+header{
+	width: 300px;
+	border-right: 2px solid rgb(195, 195, 197);
+	padding: 20px;
+}
+header ul{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+header li{
+	padding: 10px 20px;
+	border: 1px solid;
+	border-radius: 5px;
+}
