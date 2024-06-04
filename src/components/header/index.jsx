@@ -2,8 +2,8 @@ import "./index.css"
 
 const Header = () => {
 	return (
-		<div>
-			<h1>header</h1>
+		<div className="header">
+			<span><i class="fa-solid fa-right-from-bracket"></i></span>
 		</div>
 	)
 }

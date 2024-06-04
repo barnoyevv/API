@@ -16,7 +16,7 @@ const Sidebar = () => {
 							className={
 								item.path === pathname
 								? item.active
-								: "text-white bg-primary"
+								: "text-primary py-2 px-4 bg-white text-decoration-none"
 							}>
 								{item.content}
 							</NavLink>

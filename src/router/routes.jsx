@@ -1,33 +1,33 @@
 const routes = [
 	{
-			path: "posts",
+			path: "/",
 			content: "Posts",
-			active: "text-primary bg-white"
+			active: "text-white py-2 px-4 bg-primary fs-3 rouneded-2 text-decoration-none rounded-2"
 	},
 	{
-			path: "/",
+			path: "/comments",
 			content: "Comments",
-			active: "text-primary bg-white"
+			active: "text-white py-2 px-4 bg-primary fs-3 rouneded-2 text-decoration-none rounded-2"
 	},
 	{
-			path: "/",
+			path: "/albums",
 			content: "Albums",
-			active: "text-primary bg-white"
+			active: "text-white py-2 px-4 bg-primary fs-3 rouneded-2 text-decoration-none rounded-2"
 	},
 	{
-			path: "/",
+			path: "/photos",
 			content: "Photos",
-			active: "text-primary bg-white"
+			active: "text-white py-2 px-4 bg-primary fs-3 rouneded-2 text-decoration-none rounded-2"
 	},
 	{
-			path: "/",
+			path: "/todos",
 			content: "Todos",
-			active: "text-primary bg-white"
+			active: "text-white py-2 px-4 bg-primary fs-3 rouneded-2 text-decoration-none rounded-2"
 	},
 	{
-			path: "/",
+			path: "/users",
 			content: "Users",
-			active: "text-primary bg-white"
+			active: "text-white py-2 px-4 bg-primary fs-3 rouneded-2 text-decoration-none rounded-2"
 	},
 ]
 

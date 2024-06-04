@@ -8,8 +8,7 @@ header ul{
 	flex-direction: column;
 	gap: 10px;
 }
-header li{
-	padding: 10px 20px;
-	border: 1px solid;
-	border-radius: 5px;
+header h1{
+	font-size: 30px;
+	margin-bottom: 30px;
 }

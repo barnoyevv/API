@@ -8,7 +8,7 @@ const App = () => {
 			<Sidebar/>
 			<div className='main-right'>
 				<Header/>
-				<main>
+				<main className='outlet'>
 					<Outlet/>
 				</main>
 			</div>
